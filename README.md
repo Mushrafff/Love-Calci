@@ -1,4 +1,4 @@
-# Love 💖 Calci
+# Love Calci
 A fun little calculator that measures love compatibility❤️✨.  
 Built with pure HTML, CSS, and JavaScript — no frameworks needed!  
 
